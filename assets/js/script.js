@@ -163,7 +163,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 document.getElementById('resume-btn').addEventListener('click', function() {
   // The path to your CV file
-  const cvPath = './assets/Arslan Resume.pdf';
+  const cvPath = './assets/Muhammad_Arslan_Wajid_WordPress_Developer.pdf';
   
   // Create a temporary anchor element
   const link = document.createElement('a');
