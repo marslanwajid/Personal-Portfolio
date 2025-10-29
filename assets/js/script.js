@@ -168,7 +168,7 @@ document.getElementById('resume-btn').addEventListener('click', function() {
   // Create a temporary anchor element
   const link = document.createElement('a');
   link.href = cvPath;
-  link.download = 'Arslan Resume.pdf'; // The filename to use for the downloaded file
+  link.download = 'Muhammad_Arslan_Wajid_WordPress_Developer.pdf'; // The filename to use for the downloaded file
 
   // Append the anchor to the body
   document.body.appendChild(link);
